@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Spring Security 6, Docker, AWS**
 
-- 📫 Feel free to reach me out **gabsi.fares18@gmail.com**
+- 📫 Feel free to reach me out **fares.gabsi@issatso.u-sousse.tn**
 <!--Intro end-->
 
 
