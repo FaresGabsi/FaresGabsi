@@ -19,7 +19,9 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Spring Boot 3, React, MongoDB**
-
+  
+- ☁️ **Google Cloud Digital Leader Certified**
+  
 - 🌱 I’m currently learning **Spring Security 6, Docker, AWS**
 
 - 📫 Feel free to reach me out **fares.gabsi@issatso.u-sousse.tn**
