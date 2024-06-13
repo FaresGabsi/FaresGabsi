@@ -11,11 +11,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Spring Boot 3, React, MongoDB**
+- 🔭 I’m currently working on **Spring Boot 3**
   
 - ☁️<a href="https://www.credential.net/cea0a1d1-6a5c-441c-84f5-c24140003d28"> **Google Cloud Digital Leader Certified**</a>
   
-- 🌱 I’m currently learning **Spring Security 6, Docker, AWS**
+- 🌱 I’m currently learning **Jenkins, Kubernetes, Azure**
 
 - 📫 Feel free to reach me out **gabsifares@issatso.u-sousse.tn**
 <!--Intro end-->
